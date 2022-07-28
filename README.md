@@ -30,3 +30,14 @@ Download the community version, which is free.
 
 
 Run the setup and install it.
+
+# Python Introduction 
+
+## What is Python ?
+Python is a high-level, interpreted, general-purpose programming language.
+
+## Why python ?
+Python is used in various fields and is free.
+
+It has variety of libraries beign the reason behind the popularity of python.
+
