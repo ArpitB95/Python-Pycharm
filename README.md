@@ -17,5 +17,7 @@ It will show you the version of python
 
 ## How to download pycharm 
 Go to this link : https://www.jetbrains.com/pycharm/download/#section=windows
+
 Download the community version, which is free.
+
 Run the setup and install it.
