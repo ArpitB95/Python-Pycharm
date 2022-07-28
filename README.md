@@ -18,6 +18,9 @@ It will show you the version of python
 
 <img width="270" alt="python version" src="https://user-images.githubusercontent.com/110182832/181590440-f99ac438-fbf2-4d16-8ef7-8cf5acce6044.png">
 
+
+
+
 ## How to download pycharm 
 Go to this link : https://www.jetbrains.com/pycharm/download/#section=windows
 
