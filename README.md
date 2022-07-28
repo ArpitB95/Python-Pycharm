@@ -39,5 +39,18 @@ Python is a high-level, interpreted, general-purpose programming language.
 ## Why python ?
 Python is used in various fields and is free.
 
+![python application](https://user-images.githubusercontent.com/110182832/181594361-98f3ccb1-f22d-4182-a6d3-1a58f2031100.jpg)
+
+
 It has variety of libraries beign the reason behind the popularity of python.
+
+
+## Python Variables
+Variables are used to store the value/ data in to the object.
+
+There are total 4 types of variable in python.
+1) String  Ex: "Hello"
+2) Integer Ex: 0,1,66,999
+3) Float Ex: 55.5, 4.9
+4) Boolean Ex: True or False
 
