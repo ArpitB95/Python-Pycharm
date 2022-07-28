@@ -3,7 +3,9 @@
 
 ## How to Install python ?
 Click on the link : https://www.python.org/downloads/ 
+
 Select your OS and click download
+
 Install the setup 
 
 To check if python is installed in your system or to check it's version:
